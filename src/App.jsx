@@ -1,9 +1,11 @@
+import MainContainer from './components/MainContainer';
+
 import './App.css';
 
 function App() {
   return (
     <>
-      <h1>Removing default elements</h1>
+      <MainContainer />
     </>
   );
 }
