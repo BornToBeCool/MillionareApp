@@ -1,0 +1,14 @@
+.titleBackground {
+  background: linear-gradient(
+    to right,
+    #ffd700,
+    #ffb800
+  ); /* Gold-like gradient */
+  color: black; /* Text color */
+  font-weight: bold;
+  font-size: 1.5em;
+  border: 2px solid black; /* Optional border */
+  border-radius: 20px; /* Rounded edges */
+  padding: 10px 20px; /* Padding for spacing */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+}
